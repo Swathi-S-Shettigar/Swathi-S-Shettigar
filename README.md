@@ -12,7 +12,7 @@
 
 ### 👩‍💻 About Me
 -  I’m passionate about building practical, user-friendly digital solutions
--  Skilled in HTML, CSS, JavaScript, and currently learning React and Node
+-  Skilled in HTML, CSS, JavaScript,MySQL and currently learning React and Node
 -  Constantly learning and improving in full stack development & data analytics
 ---
 
