@@ -68,7 +68,6 @@ I’m open to **internships** and **full-time roles** in software development or
 Feel free to reach out or check out my projects!
 
 📍 Udupi , Karnataka | Ready to relocate  
-📧 swathisshettigar574@gmail.com  
 📞 +91 8792243506
 
 ---
