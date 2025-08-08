@@ -31,16 +31,16 @@
 
 ### 🚀 Projects Highlights
 
-#### 🏥 [Healthcare Analytics Dashboard](#)
+#### 🏥 Healthcare Analytics Dashboard
 **Power BI | DAX | Data Slicers | Charts**
 - Visualized hospital billing trends, medical conditions, gender & age distribution
 - Dynamic filters for hospitals, admission types, and timeframes
 
-#### 🌦️ [Weather Forecast Web App](#)
+#### 🌦️ Weather Forecast Web App
 **JavaScript | OpenWeather API | Voice Search**
 - Displays real-time weather, air conditions, sunrise/sunset, and 5-day forecast
 
-#### 🦷 [Dental Care Management System](#)
+#### 🦷 Dental Care Management System
 **PHP | MySQL | Bootstrap | JS**
 - Role-based dashboards for Patients, Doctors, and Admins with session scheduling and treatment tracking
 
