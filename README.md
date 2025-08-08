@@ -64,7 +64,7 @@
 ---
 
 ### 🤝 Let’s Connect!
-I’m open to **internships** and **full-time roles** in software development or data analytics.  
+I’m open to **internships** and **full-time roles** in Full Stack Development or Data Analytics.  
 Feel free to reach out or check out my projects!
 
 📍 Udupi , Karnataka | Ready to relocate  
