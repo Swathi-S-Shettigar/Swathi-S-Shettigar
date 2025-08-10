@@ -24,7 +24,7 @@
 | ⚙️ Backend | Node.js, Express.js, PHP |
 | 🧠 Programming | JavaScript, C++, DAX |
 | 🗄️ Databases | MySQL, SQL Server |
-| 📊 Analytics | Power BI, Jupyter Notebook |
+| 📊 Analytics | Power BI |
 | 🧰 Tools | Git, GitHub, Postman, VS Code, Figma |
 
 ---
