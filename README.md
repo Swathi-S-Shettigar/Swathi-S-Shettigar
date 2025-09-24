@@ -21,8 +21,8 @@
 | Domain | Technologies |
 |--------|--------------|
 | 💻 Frontend | HTML, CSS, JavaScript, Bootstrap, React.js |
-| ⚙️ Backend | Node.js, Express.js, PHP |
-| 🧠 Programming | JavaScript, C++, DAX |
+| ⚙️ Backend | Node.js, Express.js |
+| 🧠 Programming | C++, Java |
 | 🗄️ Databases | MySQL, SQL Server |
 | 📊 Analytics | Power BI |
 | 🧰 Tools | Git, GitHub, Postman, VS Code, Figma |
