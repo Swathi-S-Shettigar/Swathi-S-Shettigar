@@ -4,7 +4,9 @@
 </p>
 <p align="center">
   <a href="mailto:swathisshettigar574@gmail.com"> Email</a> |
-  <a href="https://www.linkedin.com/in/swathi-s-shettigar-038683313/">LinkedIn</a> 
+  <a href="https://www.linkedin.com/in/swathi-s-shettigar-038683313/">LinkedIn</a> |
+  <a href="https://swathishettigar-portfolio.netlify.app/">Portfolio</a> |
+   
   
 </p>
 
